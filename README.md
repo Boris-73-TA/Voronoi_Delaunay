@@ -1,2 +1,2 @@
 # Voronoi_Delaunay
-Exploring Voronoi diagrams and Delaunay triangulations
+Exploring Voronoi diagrams, Delaunay triangulations (their dual structures), and other related constructs... 
